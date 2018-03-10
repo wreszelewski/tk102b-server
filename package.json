@@ -1,0 +1,24 @@
+{
+  "name": "treklog-tk102b",
+  "version": "1.0.0",
+  "description": "tk102b to treklog proxy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wreszelewski/treklog-tk102b.git"
+  },
+  "author": "Wojciech Reszelewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wreszelewski/treklog-tk102b/issues"
+  },
+  "homepage": "https://github.com/wreszelewski/treklog-tk102b#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "moment": "^2.21.0"
+  }
+}
